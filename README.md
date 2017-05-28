@@ -1,4 +1,24 @@
-# Universal
+# easy-ng-universal
+
+## Setup
+
+```
+$ npm install
+```
+
+## Run
+
+```
+$ npm start
+```
+
+## Run as Universal
+
+```
+$ npm run uni
+```
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
 

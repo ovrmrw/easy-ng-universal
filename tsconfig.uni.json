@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "angularCompilerOptions": {
+    "genDir": "aot",
+    "entryModule": "./src/app/app.module#AppModule",
+    "skipMetadataEmit": true
+  }
+}
